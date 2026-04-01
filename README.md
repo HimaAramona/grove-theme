@@ -4,12 +4,13 @@ A nature-inspired, [Gruvbox](https://github.com/morhetz/gruvbox)-based color the
 
 ## Variants
 
-- **Grove Dark** — balanced dark theme
-- **Grove Dark Hard** — deeper, higher-contrast dark
-- **Grove Dark Soft** — gentler, lower-contrast dark
-- **Grove Light** — balanced light theme
-- **Grove Light Hard** — brighter, higher-contrast light
-- **Grove Light Soft** — warmer, lower-contrast light
+| Dark | Dark Hard | Dark Soft |
+|------|-----------|-----------|
+|| | |
+
+| Light | Light Hard | Light Soft |
+|-------|------------|------------|
+|  |  | |
 
 ## Installation
 
