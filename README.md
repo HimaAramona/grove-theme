@@ -1,5 +1,7 @@
 # Grove
 
+<img alt="Grove Dark Hard" src="https://github.com/user-attachments/assets/0ceff721-0ee5-4f7d-8b62-de2e4703f1b0" />
+
 A nature-inspired, [Gruvbox](https://github.com/morhetz/gruvbox)-based color theme for [Zed](https://zed.dev) with earthy greens, warm ambers, and muted tones.
 
 ## Variants
